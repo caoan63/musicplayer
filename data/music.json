@@ -1,0 +1,40 @@
+{
+    "music": [
+        {
+            "name": "Mixtape Ngày Xuân Long Phụng Sum Vầy",
+            "singer": "Lam Trường",
+            "path": "https://mp3-320s1-zmp3.zadn.vn/248451f9e0bd09e350ac/4179724348758783903?authen=exp=1643605433~acl=/248451f9e0bd09e350ac/*~hmac=26016f7929a48731232c4e1662e8fd95&fs=MTY0MzQzMjYzMzQwMXx3ZWJWNnwxMDA1MDAzNDkzfDE0LjI0MS4xNTYdUngMTky",
+            "image": "https://photo-resize-zmp3.zadn.vn/w94_r1x1_webp/avatars/b/9/b9355dbc597fa6bd1a2940f55866789a_1430741859.jpg"
+         },
+         {
+            "name": "Mùa Xuân Ơi",
+            "singer": "Mây Trắng",
+            "path": "https://vnso-zn-5-tf-mp3-320s1-zmp3.zadn.vn/11a604d59f9176cf2f80/5977665035173534935?authen=exp=1643610854~acl=/11a604d59f9176cf2f80/*~hmac=f471ef828add00058bd454dd0b8f5e3b&fs=MTY0MzQzODA1NDIxNHx3ZWJWNnwxMDYzNjIwNTA0fDE3MS4yNDmUsICdUngMTUxLjE0NQ",
+            "image": "https://photo-resize-zmp3.zadn.vn/w94_r1x1_webp/covers/e/7/e714950cfd661790bd6e96954248db09_1362240362.jpg"
+         },
+         {
+            "name": "Liên Khúc Đón Xuân - Xuân Đã Về",
+            "singer": "Cẩm Ly",
+            "path": "https://mp3-320s1-zmp3.zadn.vn/a41596d62292cbcc9283/2279273211780561270?authen=exp=1643610685~acl=/a41596d62292cbcc9283/*~hmac=0930c592d8fa63b904f441e3ff0a95b9&fs=MTY0MzQzNzg4NTUzNXx3ZWJWNnwwfDEdUngNTMdUngMTmUsIC1Ljk3",
+            "image": "https://photo-resize-zmp3.zadn.vn/w94_r1x1_webp/covers/4/c/4cfcaa97232769f2afb463275306bb9b_1307182206.jpg"
+         },
+         {
+            "name": "Bên Em Mùa Xuân",
+            "singer": "Lam Trường",
+            "path": "https://mp3-320s1-zmp3.zadn.vn/54a83c0aa84e4110185f/2914959532990513286?authen=exp=1643611050~acl=/54a83c0aa84e4110185f/*~hmac=0f95c6c8502c9d6f0e0dc86debda349d&fs=MTY0MzQzODI1MDkzNHx3ZWJWNnwxMDYzNjIwNTA0fDE3MS4yNDmUsICdUngMTUxLjE0NQ",
+            "image": "https://photo-resize-zmp3.zadn.vn/w94_r1x1_webp/avatars/b/9/b9355dbc597fa6bd1a2940f55866789a_1430741859.jpg"
+         },
+         {
+            "name": "Thì Thầm Mùa Xuân",
+            "singer": "Phan Đình Tùng",
+            "path": "https://mp3-320s1-zmp3.zadn.vn/e5b9b40a2a4ec3109a5f/978773297498429847?authen=exp=1643611210~acl=/e5b9b40a2a4ec3109a5f/*~hmac=eec0b8f2ba652945de615dbb93346e77&fs=MTY0MzQzODQxMDYxMHx3ZWJWNnwxMDYzNjIwNTA0fDE3MS4yNDmUsICdUngMTUxLjE0NQ",
+            "image": "https://photo-resize-zmp3.zadn.vn/w94_r1x1_webp/covers/c/2/c270eb7dd0e8b6b2e46e7b8efb3a1362_1454379741.jpg"
+         },
+         {
+            "name": "Khúc Giao Mùa",
+            "singer": "Mỹ Linh, Minh Quân",
+            "path": "https://mp3-320s1-zmp3.zadn.vn/8317d6bb95ff7ca125ee/5752696334567171144?authen=exp=1643610747~acl=/8317d6bb95ff7ca125ee/*~hmac=d5f84637c3a844b0c19e75ac331a1720&fs=MTY0MzQzNzk0NzmUsIC0OXx3ZWJWNnwxMDgxMDg2NzU0fDEdUngNTIdUngMTk0LjE4NQ",
+            "image": "https://photo-resize-zmp3.zadn.vn/w94_r1x1_webp/covers/4/b/4b1c59c7728e2b1cb65f6cb20aaf5cf9_1285661724.jpg"
+         }
+    ]
+}
